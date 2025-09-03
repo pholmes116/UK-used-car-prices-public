@@ -26,10 +26,10 @@ Car CSVs contain the Kaggle-sourced used-car datasets, ONS CPIH indices contain 
 
 ## Methods
 
-- Data acquisition & cleaning: ONS statistics, Kaggle car data, VW reports
-- Wrangling: merging datasets, feature engineering (e.g., age, efficiency)
-- Visualization: time-series trends, correlations, comparative plots
-- Modeling: Linear regression on VW Golf data to estimate price impact
+- **Data acquisition & cleaning**: ONS statistics, Kaggle car data, VW reports
+- **Wrangling**: merging datasets, feature engineering (e.g., age, efficiency)
+- **Visualization**: time-series trends, correlations, comparative plots
+- **Modeling**: Linear regression on VW Golf data to estimate price impact
 
 ## Findings
 
