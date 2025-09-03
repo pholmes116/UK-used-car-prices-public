@@ -16,11 +16,13 @@ Using datasets from the UK Office of National Statistics, a Kaggle-sourced sampl
 ## Project Structure
 
 .\
-├── Car CSVs/             # Kaggle-sourced used-car dataset \
-├── ONS CPIH indices/     # Economic indicators from UK ONS \
-├── VW Golf Emissions/    # CO2 emission data for VW Golf models \
+├── Car CSVs/
+├── ONS CPIH indices/
+├── VW Golf Emissions/
 ├── UK_car_rental.ipynb\
 └── README.md
+
+Car CSVs contain the Kaggle-sourced used-car datasets, ONS CPIH indices contain economic indicators from UK ONS, VW Golf Emissions contain CO2 emission data for VW Golf models.
 
 ## Methods
 
